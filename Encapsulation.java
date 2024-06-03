@@ -10,7 +10,7 @@ public class Encapsulation
         System.out.println(p1.getName());
         System.out.println(p1.getAge());
 
-        System.out.println(p1.name);
+        //System.out.println(p1.name);          //This gets error whybeacause this is private variable
     }
 
 }
